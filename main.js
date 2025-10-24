@@ -3,16 +3,16 @@ Declara una función que acepte una palabra como parámetro y
 la devuelva con todos sus caracteres en mayúsculas y separados 
 por espacios. Ejemplo: Para "Ana" devolverá "A N A".*/
 
-/*let palabra="Ana";
-transformar= console.log(palabra.toUppercase());*/
+let palabra="Ana";
+transformar= console.log(palabra.toUppercase());
 
 /*Ejercicio 2
 Declara una función que acepte un nombre como parámetro y devuelva 
 el número de palabras que tiene el nombre. Ejemplo: Para "Antonio Alberto Jesús" 
 devolverá 3.*/
 
-/*var nombre="Antonio Alberto Jesús";
-totalparam = console.log(nombre.length);*/
+var nombre="Antonio Alberto Jesús";
+totalparam = console.log(nombre.length);
 
 /*Ejercicio 3:
 Diseña un algoritmo que cuente las veces que aparece una determinada letra en una frase.*/
@@ -30,12 +30,6 @@ Diseña un algoritmo que cuente las veces que aparece una determinada letra en u
 9.-en caso de no cumplirse la condición, mostrar el siguiente mensaje "No hay letras iguales"
 10.- Fin*/
 
-let frase= "Esto es una frase";
-let letra= substring (frase);
-
-/*for (let i; i<=frase.length; i++) {
-    if 
-}*/
 
 
 
