@@ -18,11 +18,17 @@ totalparam = console.log(nombre.length);*/
 Diseña un algoritmo que cuente las veces que aparece una determinada letra en una frase.*/
 
 /*1.Inicio
-2.Leer frasse
+2.Leer frase
 3.Verificar que es tipo string
-4.Inicializacion variables en 1
-5.bucle para recorrer la frase
-6.si en cada iteración hay una letra sea igual a letra suma*/
+4.Inicializacion variables 
+5.extraer las letras de la frase
+6.constriur un array con los valores
+5.bucle para recorrer el array
+6.establecer la condición (si en cada iteración hay más de una letra estrictamente igual)
+7.instrucción a ejecutar si se cumple la condición (incrementar en 1 el valor incial de letras iguales)
+8.en caso de cumplirse la condición, retornar el resultado de incrementar en 1 el valor incial de letras iguales
+9.-en caso de no cumplirse la condición, mostrar el siguiente mensaje "No hay letras iguales"
+10.- Fin*/
 
 let frase= "Esto es una frase";
 let letra= substring (frase);
